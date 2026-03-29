@@ -1,2 +1,0 @@
-You must use this as guide to use the solution provided
-for the retrieval of data from the sprase matrix.
